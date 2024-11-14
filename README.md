@@ -16,8 +16,8 @@ Probeats est une maquette Figma réalisée pour une marque de casques audio. Ce 
 **Note** : Ce dépôt ne contient pas le code, mais la maquette Figma. Pour visualiser le projet, accédez directement à la maquette sur Figma en suivant ce [lien]([URL_FIGMA]([https://www.figma.com/design/ci3la2FL8cOzJ6Efa594aP/Probeats?node-id=14-1177&t=gXVpwdiTPJcEaZkm-1](url))).
 
 ## Captures d'écran
-![Capture d'écran de la page d'accueil](lien_vers_image.png)
-*(Ajoute une capture d’écran si tu en as une ; sinon, laisse ce champ pour plus tard)*
+![Capture d'écran de la page d'accueil]([lien_vers_image.png](https://drive.google.com/file/d/15A7W9og_QhUp4GgWmHWVRGyjPW0bw7Fk/view?usp=sharing))
+
 
 ## Ce que j'ai appris
 - Création d’une interface utilisateur pour un site e-commerce.
